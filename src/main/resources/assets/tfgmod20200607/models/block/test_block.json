@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tfgmod20200607:blocks/test_block"
+  }
+}
